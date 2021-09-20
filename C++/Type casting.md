@@ -1,0 +1,4 @@
+- reinterpret 
+- static
+- dynamic(How dynamic cast_works )
+- const_cast pupose 
