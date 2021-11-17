@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "015c012ada39516e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb8c8412f6ddb31",
+        "type": "leaf",
+        "dimension": 47.88519637462236,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "STM32/Создание проекта для stm32f103.md",
+            "mode": "source"
+          }
+        },
+        "group": "bfc3fbb32cdce060"
+      },
+      {
+        "id": "e89de4ac26d14030",
+        "type": "leaf",
+        "dimension": 52.11480362537765,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "STM32/Создание проекта для stm32f103.md",
+            "mode": "preview"
+          }
+        },
+        "group": "bfc3fbb32cdce060"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9ff433dd730b1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2988339b93a2959f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd30cf94e4ec72f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10b56b925ccdcbc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54c41adf6c49df98",
+    "type": "split",
+    "children": [
+      {
+        "id": "076aedfa6bce9a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2a98c782573d72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STM32/Создание проекта для stm32f103.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4cb8c8412f6ddb31",
+  "lastOpenFiles": [
+    "STM32/Создание проекта для stm32f103.md",
+    "STM32/Написание своего sturtup файла.md",
+    "STM32/Understanding Linker script.md",
+    "отдельной статьи Linker script.md",
+    "Generators of project.md",
+    "SOLID/SRP.md",
+    "SOLID/OCP.md",
+    "SOLID/SOLID.md",
+    "SOLID/LSP.md",
+    "SOLID/ISP.md"
+  ]
+}
